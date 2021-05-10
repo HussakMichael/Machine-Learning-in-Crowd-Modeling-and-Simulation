@@ -52,7 +52,7 @@ app.layout = html.Div(children=[
                 ]),
                 dbc.Col([
                      dcc.Input(id='input-folder-path', type='text', size='200',
-                               value=r'../Scenarios/output/asdf',
+                               value=r'C:\Users\XXXXX\output',
                                placeholder='Insert the path to the output folders here', debounce=True)
                 ])
                 ]),
