@@ -79,9 +79,9 @@
       },
       "org.vadere.state.attributes.models.AttributesSIRG" : {
         "infectionsAtStart" : 10,
-        "infectionRate" : 0.8,
+        "infectionRate" : 0.01,
         "infectionMaxDistance" : 1.0,
-        "recoveryRate" : 0.8
+        "recoveryRate" : 0.01
       },
       "org.vadere.state.attributes.models.AttributesFloorField" : {
         "createMethod" : "HIGH_ACCURACY_FAST_MARCHING",
