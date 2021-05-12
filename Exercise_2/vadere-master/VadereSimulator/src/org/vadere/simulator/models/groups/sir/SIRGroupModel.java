@@ -223,6 +223,7 @@ public class SIRGroupModel extends AbstractGroupModel<SIRGroup> {
 					}
 				}
 				if(g.getID() == SIRType.ID_SUSCEPTIBLE.ordinal()){
+					//Iterating possible neighbors within radius of infectionMaxDistance in the attributes
 					for(Pedestrian p_neighbor : cellsGrid.getObjects(p.getPosition(),attributesSIRG.getInfectionMaxDistance())){
 						if (p != p_neighbor && getGroup(p_neighbor).getID() == SIRType.ID_INFECTED.ordinal()){
 							if(this.random.nextDouble() < attributesSIRG.getInfectionRate()) {
