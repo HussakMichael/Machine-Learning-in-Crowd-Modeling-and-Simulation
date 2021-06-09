@@ -1,0 +1,200 @@
+Epoch 1/1
+469/469 [==============================] - 8s 16ms/step - total_loss: 175.4435 - reconstruction_loss: 165.5007 - latent_loss: 9.9427
+Epoch 1/4
+469/469 [==============================] - 8s 17ms/step - total_loss: 129.2271 - reconstruction_loss: 112.1675 - latent_loss: 17.0596
+Epoch 2/4
+469/469 [==============================] - 9s 18ms/step - total_loss: 118.6550 - reconstruction_loss: 99.4777 - latent_loss: 19.1773
+Epoch 3/4
+469/469 [==============================] - 12s 25ms/step - total_loss: 114.0353 - reconstruction_loss: 93.8910 - latent_loss: 20.1442
+Epoch 4/4
+469/469 [==============================] - 11s 23ms/step - total_loss: 111.3280 - reconstruction_loss: 90.7213 - latent_loss: 20.6067
+Epoch 1/20
+469/469 [==============================] - 8s 16ms/step - total_loss: 109.4498 - reconstruction_loss: 88.5204 - latent_loss: 20.9294
+Epoch 2/20
+469/469 [==============================] - 9s 20ms/step - total_loss: 108.0592 - reconstruction_loss: 86.8972 - latent_loss: 21.1620
+Epoch 3/20
+469/469 [==============================] - 10s 21ms/step - total_loss: 107.0374 - reconstruction_loss: 85.6712 - latent_loss: 21.3663
+Epoch 4/20
+469/469 [==============================] - 10s 21ms/step - total_loss: 106.1706 - reconstruction_loss: 84.6692 - latent_loss: 21.5013
+Epoch 5/20
+469/469 [==============================] - 10s 21ms/step - total_loss: 105.4334 - reconstruction_loss: 83.8127 - latent_loss: 21.6207
+Epoch 6/20
+469/469 [==============================] - 10s 22ms/step - total_loss: 104.8962 - reconstruction_loss: 83.1749 - latent_loss: 21.7213 3s - total_loss: 104.86
+Epoch 7/20
+469/469 [==============================] - 11s 24ms/step - total_loss: 104.3613 - reconstruction_loss: 82.5491 - latent_loss: 21.8122
+Epoch 8/20
+469/469 [==============================] - 11s 23ms/step - total_loss: 103.8776 - reconstruction_loss: 82.0141 - latent_loss: 21.8636
+Epoch 9/20
+469/469 [==============================] - 11s 23ms/step - total_loss: 103.5113 - reconstruction_loss: 81.5768 - latent_loss: 21.9345
+Epoch 10/20
+469/469 [==============================] - 11s 22ms/step - total_loss: 103.1630 - reconstruction_loss: 81.1673 - latent_loss: 21.9957
+Epoch 11/20
+469/469 [==============================] - 9s 19ms/step - total_loss: 102.8474 - reconstruction_loss: 80.8270 - latent_loss: 22.0204
+Epoch 12/20
+469/469 [==============================] - 10s 21ms/step - total_loss: 102.5257 - reconstruction_loss: 80.4396 - latent_loss: 22.0861
+Epoch 13/20
+469/469 [==============================] - 10s 20ms/step - total_loss: 102.2406 - reconstruction_loss: 80.1361 - latent_loss: 22.1045
+Epoch 14/20
+469/469 [==============================] - 10s 22ms/step - total_loss: 102.0172 - reconstruction_loss: 79.9057 - latent_loss: 22.1115
+Epoch 15/20
+469/469 [==============================] - 9s 20ms/step - total_loss: 101.8450 - reconstruction_loss: 79.6957 - latent_loss: 22.1494
+Epoch 16/20
+469/469 [==============================] - 10s 20ms/step - total_loss: 101.6198 - reconstruction_loss: 79.4259 - latent_loss: 22.1939
+Epoch 17/20
+469/469 [==============================] - 10s 21ms/step - total_loss: 101.4438 - reconstruction_loss: 79.2329 - latent_loss: 22.2109
+Epoch 18/20
+469/469 [==============================] - 10s 21ms/step - total_loss: 101.2760 - reconstruction_loss: 79.0462 - latent_loss: 22.2299
+Epoch 19/20
+469/469 [==============================] - 12s 25ms/step - total_loss: 101.1091 - reconstruction_loss: 78.8795 - latent_loss: 22.2296
+Epoch 20/20
+469/469 [==============================] - 10s 22ms/step - total_loss: 100.9322 - reconstruction_loss: 78.6848 - latent_loss: 22.2474
+Epoch 1/25
+469/469 [==============================] - 10s 22ms/step - total_loss: 100.7814 - reconstruction_loss: 78.5029 - latent_loss: 22.2785
+Epoch 2/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 100.6356 - reconstruction_loss: 78.3759 - latent_loss: 22.2598
+Epoch 3/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 100.5210 - reconstruction_loss: 78.2119 - latent_loss: 22.3091
+Epoch 4/25
+469/469 [==============================] - 9s 20ms/step - total_loss: 100.4437 - reconstruction_loss: 78.1408 - latent_loss: 22.3029
+Epoch 5/25
+469/469 [==============================] - 9s 20ms/step - total_loss: 100.3056 - reconstruction_loss: 77.9840 - latent_loss: 22.3217
+Epoch 6/25
+469/469 [==============================] - 9s 19ms/step - total_loss: 100.2263 - reconstruction_loss: 77.8777 - latent_loss: 22.3486
+Epoch 7/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 100.1300 - reconstruction_loss: 77.7823 - latent_loss: 22.3478
+Epoch 8/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 99.9653 - reconstruction_loss: 77.6381 - latent_loss: 22.3273
+Epoch 9/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 99.8452 - reconstruction_loss: 77.5186 - latent_loss: 22.3266
+Epoch 10/25
+469/469 [==============================] - 9s 20ms/step - total_loss: 99.7879 - reconstruction_loss: 77.4469 - latent_loss: 22.3410
+Epoch 11/25
+469/469 [==============================] - 9s 20ms/step - total_loss: 99.6989 - reconstruction_loss: 77.3404 - latent_loss: 22.3585
+Epoch 12/25
+469/469 [==============================] - 9s 20ms/step - total_loss: 99.6264 - reconstruction_loss: 77.2634 - latent_loss: 22.3630
+Epoch 13/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 99.5767 - reconstruction_loss: 77.2010 - latent_loss: 22.3758
+Epoch 14/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 99.4223 - reconstruction_loss: 77.0401 - latent_loss: 22.3822
+Epoch 15/25
+469/469 [==============================] - 9s 20ms/step - total_loss: 99.3949 - reconstruction_loss: 76.9947 - latent_loss: 22.4002
+Epoch 16/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 99.3479 - reconstruction_loss: 76.9681 - latent_loss: 22.3798
+Epoch 17/25
+469/469 [==============================] - 10s 22ms/step - total_loss: 99.2266 - reconstruction_loss: 76.8421 - latent_loss: 22.3845
+Epoch 18/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 99.1787 - reconstruction_loss: 76.7920 - latent_loss: 22.3867
+Epoch 19/25
+469/469 [==============================] - 10s 20ms/step - total_loss: 99.1022 - reconstruction_loss: 76.7375 - latent_loss: 22.3647
+Epoch 20/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 99.0260 - reconstruction_loss: 76.6573 - latent_loss: 22.3688
+Epoch 21/25
+469/469 [==============================] - 11s 23ms/step - total_loss: 99.0417 - reconstruction_loss: 76.6250 - latent_loss: 22.4167
+Epoch 22/25
+469/469 [==============================] - 11s 23ms/step - total_loss: 98.9475 - reconstruction_loss: 76.5270 - latent_loss: 22.4205
+Epoch 23/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 98.9056 - reconstruction_loss: 76.5092 - latent_loss: 22.3964
+Epoch 24/25
+469/469 [==============================] - 10s 21ms/step - total_loss: 98.8336 - reconstruction_loss: 76.4339 - latent_loss: 22.3996
+Epoch 25/25
+469/469 [==============================] - 10s 22ms/step - total_loss: 98.7433 - reconstruction_loss: 76.3434 - latent_loss: 22.3999
+Epoch 1/50
+469/469 [==============================] - 12s 25ms/step - total_loss: 98.7522 - reconstruction_loss: 76.3263 - latent_loss: 22.4259
+Epoch 2/50
+469/469 [==============================] - 10s 21ms/step - total_loss: 98.6862 - reconstruction_loss: 76.2805 - latent_loss: 22.4058
+Epoch 3/50
+469/469 [==============================] - 9s 19ms/step - total_loss: 98.6361 - reconstruction_loss: 76.2000 - latent_loss: 22.4362
+Epoch 4/50
+469/469 [==============================] - 9s 20ms/step - total_loss: 98.6034 - reconstruction_loss: 76.1947 - latent_loss: 22.4087
+Epoch 5/50
+469/469 [==============================] - 9s 20ms/step - total_loss: 98.5434 - reconstruction_loss: 76.1231 - latent_loss: 22.4203
+Epoch 6/50
+469/469 [==============================] - 9s 20ms/step - total_loss: 98.5132 - reconstruction_loss: 76.1105 - latent_loss: 22.4027
+Epoch 7/50
+469/469 [==============================] - 9s 20ms/step - total_loss: 98.4951 - reconstruction_loss: 76.0733 - latent_loss: 22.4219
+Epoch 8/50
+469/469 [==============================] - 9s 20ms/step - total_loss: 98.4063 - reconstruction_loss: 75.9895 - latent_loss: 22.4168
+Epoch 9/50
+469/469 [==============================] - 9s 20ms/step - total_loss: 98.3818 - reconstruction_loss: 75.9395 - latent_loss: 22.4423
+Epoch 10/50
+469/469 [==============================] - 9s 20ms/step - total_loss: 98.3532 - reconstruction_loss: 75.9159 - latent_loss: 22.4373
+Epoch 11/50
+469/469 [==============================] - 9s 19ms/step - total_loss: 98.2479 - reconstruction_loss: 75.8254 - latent_loss: 22.4225
+Epoch 12/50
+469/469 [==============================] - 11s 24ms/step - total_loss: 98.2999 - reconstruction_loss: 75.8647 - latent_loss: 22.4352
+Epoch 13/50
+469/469 [==============================] - 11s 24ms/step - total_loss: 98.2621 - reconstruction_loss: 75.7979 - latent_loss: 22.4642
+Epoch 14/50
+469/469 [==============================] - 12s 26ms/step - total_loss: 98.1733 - reconstruction_loss: 75.7227 - latent_loss: 22.4506
+Epoch 15/50
+469/469 [==============================] - 12s 26ms/step - total_loss: 98.2029 - reconstruction_loss: 75.7594 - latent_loss: 22.4436
+Epoch 16/50
+469/469 [==============================] - 11s 24ms/step - total_loss: 98.1104 - reconstruction_loss: 75.6729 - latent_loss: 22.4375
+Epoch 17/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 98.0615 - reconstruction_loss: 75.6262 - latent_loss: 22.4353
+Epoch 18/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 98.0568 - reconstruction_loss: 75.6380 - latent_loss: 22.4189
+Epoch 19/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 98.0123 - reconstruction_loss: 75.5733 - latent_loss: 22.4390
+Epoch 20/50
+469/469 [==============================] - 12s 25ms/step - total_loss: 97.9760 - reconstruction_loss: 75.5348 - latent_loss: 22.4412
+Epoch 21/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.9797 - reconstruction_loss: 75.5296 - latent_loss: 22.4501
+Epoch 22/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.9466 - reconstruction_loss: 75.5028 - latent_loss: 22.4438
+Epoch 23/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.9164 - reconstruction_loss: 75.4724 - latent_loss: 22.4440
+Epoch 24/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.9093 - reconstruction_loss: 75.4536 - latent_loss: 22.4557
+Epoch 25/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.8141 - reconstruction_loss: 75.3602 - latent_loss: 22.4540
+Epoch 26/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.8080 - reconstruction_loss: 75.3801 - latent_loss: 22.4279
+Epoch 27/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.7751 - reconstruction_loss: 75.3227 - latent_loss: 22.4524
+Epoch 28/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.7750 - reconstruction_loss: 75.3151 - latent_loss: 22.4600
+Epoch 29/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.7456 - reconstruction_loss: 75.2963 - latent_loss: 22.4493
+Epoch 30/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.7392 - reconstruction_loss: 75.2773 - latent_loss: 22.4618
+Epoch 31/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.6561 - reconstruction_loss: 75.2212 - latent_loss: 22.4349
+Epoch 32/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.6774 - reconstruction_loss: 75.2238 - latent_loss: 22.4536
+Epoch 33/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.6535 - reconstruction_loss: 75.2163 - latent_loss: 22.4372
+Epoch 34/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.5645 - reconstruction_loss: 75.1311 - latent_loss: 22.4334
+Epoch 35/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.6029 - reconstruction_loss: 75.1314 - latent_loss: 22.4715
+Epoch 36/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.5130 - reconstruction_loss: 75.0666 - latent_loss: 22.4464
+Epoch 37/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.5387 - reconstruction_loss: 75.0947 - latent_loss: 22.4440
+Epoch 38/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.4777 - reconstruction_loss: 75.0351 - latent_loss: 22.4425
+Epoch 39/50
+469/469 [==============================] - 11s 22ms/step - total_loss: 97.5024 - reconstruction_loss: 75.0548 - latent_loss: 22.4475
+Epoch 40/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.4430 - reconstruction_loss: 75.0045 - latent_loss: 22.4385
+Epoch 41/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.4636 - reconstruction_loss: 74.9988 - latent_loss: 22.4648
+Epoch 42/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.4275 - reconstruction_loss: 74.9996 - latent_loss: 22.4280
+Epoch 43/50
+469/469 [==============================] - 11s 24ms/step - total_loss: 97.4025 - reconstruction_loss: 74.9309 - latent_loss: 22.4716
+Epoch 44/50
+469/469 [==============================] - 12s 25ms/step - total_loss: 97.3585 - reconstruction_loss: 74.9294 - latent_loss: 22.4291
+Epoch 45/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.3797 - reconstruction_loss: 74.9282 - latent_loss: 22.4515
+Epoch 46/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.3373 - reconstruction_loss: 74.9072 - latent_loss: 22.4301
+Epoch 47/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.2770 - reconstruction_loss: 74.8552 - latent_loss: 22.4218
+Epoch 48/50
+469/469 [==============================] - 10s 22ms/step - total_loss: 97.2567 - reconstruction_loss: 74.8144 - latent_loss: 22.4423
+Epoch 49/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.2379 - reconstruction_loss: 74.8016 - latent_loss: 22.4363
+Epoch 50/50
+469/469 [==============================] - 11s 23ms/step - total_loss: 97.2476 - reconstruction_loss: 74.8128 - latent_loss: 22.4348
